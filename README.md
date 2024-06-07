@@ -1,1 +1,1 @@
-# 29.-Capstone-Project-Use-Public-API
+# Capstone-project-use-public-api
